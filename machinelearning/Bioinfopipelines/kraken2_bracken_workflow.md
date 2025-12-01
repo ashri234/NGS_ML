@@ -1,4 +1,5 @@
 Kraken2 and Bracken Classification Workflow
+
 This document outlines the steps I followed to process three metagenomic samples using Kraken2 and Bracken. The samples are:
 •	ERR14218891
 •	ERR14218664
