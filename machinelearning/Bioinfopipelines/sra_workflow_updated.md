@@ -113,8 +113,8 @@ End of the workflow.
 
 **References**
 
-- NCBI SRA Toolkit Documentation
+- [NCBI SRA Toolkit Documentation](https://www.ncbi.nlm.nih.gov/sra/docs/sra-dowload-tools/)
 
-- NCBI SRA Database
+- [NCBI SRA Database](https://www.ncbi.nlm.nih.gov/sra)
 
-- NCBI SRA Download Guide
+- [NCBI SRA Download Guide](https://www.ncbi.nlm.nih.gov/sra/docs/sradownload/)
