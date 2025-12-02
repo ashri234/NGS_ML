@@ -1,11 +1,14 @@
 
 **SRA Data Download and Processing Workflow**
+
 This document describes my workflow for downloading and processing Sequence Read Archive (SRA) data using the NCBI SRA Toolkit for a training course. I will execute specific Linux commands to set up the environment, download SRA files for three samples from BioProject PRJEB72526, and convert them to FASTQ format.
 
 **Purpose**
+
 For this training course, I will download SRA data from the NCBI database for three samples (ERR14218891, ERR14218664, and ERR14219004) from BioProject PRJEB72526 and generate FASTQ files for genomic analysis, such as RNA-Seq or metagenomics. I will use the prefetch and fastq-dump commands in a Linux environment.
 
 **Prerequisites**
+
 Before starting, I will ensure the following are set up:
 
 - Conda Installation: Miniconda or Anaconda must be installed on the Linux system. If not, follow the Miniconda installation guide.
