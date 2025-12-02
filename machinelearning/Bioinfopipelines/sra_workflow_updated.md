@@ -113,8 +113,8 @@ End of the workflow.
 
 **References**
 
-[NCBI SRA Toolkit Documentation]
+- [NCBI SRA Toolkit Documentation]
 
-[NCBI SRA Database]
+- [NCBI SRA Database]
 
-[NCBI SRA Download Guide]
+- [NCBI SRA Download Guide]
