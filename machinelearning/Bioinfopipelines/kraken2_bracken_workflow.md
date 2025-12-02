@@ -27,7 +27,8 @@ Estimate species abundance using Bracken.
 🧬 **Sample: ERR14218891**
 
 Step 1: Kraken2 Classification
-'''
+
+```
 kraken2 \
   --db /path/to/kraken2_db \
   --threads 16 \
@@ -36,4 +37,4 @@ kraken2 \
   --unclassified-out ERR14218891_unclassified.fastq \
   --output ERR14218891.kraken2.out \
   ERR14218891.fastq
-'''
+```
