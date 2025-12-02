@@ -12,9 +12,9 @@ Each sample was classified using Kraken2, and abundance estimation was refined w
 
 **Tools Required**
 
-Kraken2
+- Kraken2
 
-Bracken
+- Bracken
 
 **Workflow Overview**
 
@@ -23,3 +23,17 @@ For each sample, I performed the following steps:
 Classify reads with Kraken2.
 Extract classified and unclassified reads.
 Estimate species abundance using Bracken.
+
+🧬 **Sample: ERR14218891**
+
+Step 1: Kraken2 Classification
+'''
+kraken2 \
+  --db /path/to/kraken2_db \
+  --threads 16 \
+  --report ERR14218891.k2report \
+  --classified-out ERR14218891_classified.fastq \
+  --unclassified-out ERR14218891_unclassified.fastq \
+  --output ERR14218891.kraken2.out \
+  ERR14218891.fastq
+'''
