@@ -112,6 +112,9 @@ Once the downloading and FASTQ conversion steps are successfully completed, your
 End of the workflow.
 
 **References**
+
 NCBI SRA Toolkit Documentation
+
 NCBI SRA Database
+
 NCBI SRA Download Guide
